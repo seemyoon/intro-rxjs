@@ -1,0 +1,7 @@
+{
+  "author": "sasha semenets",
+  "type": "module",
+  "dependencies": {
+    "rxjs": "^7.8.0"
+  }
+}
